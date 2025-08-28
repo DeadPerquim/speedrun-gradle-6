@@ -1,1 +1,2 @@
-# speedrun-gradle-6
+Daniel Bentes Perquim
+Projeto Definitivo foda
